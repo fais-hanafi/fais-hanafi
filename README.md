@@ -21,12 +21,6 @@ I am a dedicated Backend Developer focused on building scalable, concurrent, and
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fais-hanafi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fais-hanafi&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/hand-vi](https://www.linkedin.com/in/hand-vi)
 - **Portfolio:** [fais-hanafi.github.io](https://fais-hanafi.github.io)
