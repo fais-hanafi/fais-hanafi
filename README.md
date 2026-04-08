@@ -21,9 +21,4 @@ I am a dedicated Backend Developer focused on building scalable, concurrent, and
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/hand-vi](https://www.linkedin.com/in/hand-vi)
-- **Portfolio:** [fais-hanafi.github.io](https://fais-hanafi.github.io)
-- **Email:** fhanafi98@outlook.com
-
 *"The best code is the one that is written with performance and security in mind."*
